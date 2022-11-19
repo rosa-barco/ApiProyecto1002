@@ -1,0 +1,126 @@
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\appsettings.json
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.exe
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.deps.json
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.runtimeconfig.json
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.pdb
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.csproj.AssemblyReference.cache
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.AssemblyInfoInputs.cache
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.AssemblyInfo.cs
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.csproj.CoreCompileInputs.cache
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\scopedcss\bundle\ApiProjecto1002.styles.css
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.csproj.CopyComplete
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\refint\ApiProjecto1002.dll
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.pdb
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.genruntimeconfig.cache
+C:\Users\odin6\Documents\Back End\ApiProjecto1002\obj\Debug\net6.0\ref\ApiProjecto1002.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\appsettings.Development.json
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\appsettings.json
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.exe
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.deps.json
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.runtimeconfig.json
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\ApiProjecto1002.pdb
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\BackEndEjemplo1\ApiProjecto1002\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.csproj.AssemblyReference.cache
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.GeneratedMSBuildEditorConfig.editorconfig
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.AssemblyInfoInputs.cache
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.AssemblyInfo.cs
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.csproj.CoreCompileInputs.cache
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.MvcApplicationPartsAssemblyInfo.cs
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.MvcApplicationPartsAssemblyInfo.cache
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\staticwebassets.build.json
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\staticwebassets.development.json
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\scopedcss\bundle\ApiProjecto1002.styles.css
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.csproj.CopyComplete
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.dll
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\refint\ApiProjecto1002.dll
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.pdb
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ApiProjecto1002.genruntimeconfig.cache
+G:\BackEndEjemplo1\ApiProjecto1002\obj\Debug\net6.0\ref\ApiProjecto1002.dll
